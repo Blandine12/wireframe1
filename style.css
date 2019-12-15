@@ -1,4 +1,8 @@
-
-p {
-  inset-inline: 10 px;
+body {
+  margin:20px 30px 20px 30px ;
+  width: 900px;
+}
+span {
+  margin: 20px 10px 15px 12pxS;
+  
 }
